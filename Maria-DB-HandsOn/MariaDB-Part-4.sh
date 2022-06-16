@@ -69,6 +69,8 @@ SHOW processlist;
 # Close the mysql terminal.
 EXIT;
 
+#Backup is possible!
+
 # DO NOT FORGET TO TERMINATE THE INSTANCES YOU CREATED!!!!!!!!!!
 
 Ref: https://mariadb.org/documentation/
